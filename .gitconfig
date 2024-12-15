@@ -1,0 +1,19 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = william.mariadason@gmail.com
+	name = Antony William Mariadason
+[core]
+	editor = code --wait
+[push]
+	autoSetupRemote = true
+[diff]
+	tool = vscode
+[difftool "vscode"]
+	cmd = code --wait --diff $LOCAL $REMOTE
+[init]
+	defaultBranch = main
