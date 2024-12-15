@@ -1,0 +1,10 @@
+{
+    "notebook.lineNumbers": "on",
+    "editor.largeFileOptimizations": false,
+    "redhat.telemetry.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "java.configuration.runtimes": [
+        
+
+    ]
+}
