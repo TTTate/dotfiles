@@ -1,0 +1,16 @@
+code
+code-features
+code-marketplace
+discord
+docker
+github-cli
+python
+spotify
+steam
+stow
+unzip
+vlc
+wget
+which
+zip
+zoom
